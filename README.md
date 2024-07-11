@@ -1,4 +1,3 @@
-
 # E_Siska
 
 E_Siska adalah website untuk memanage kegiatan belajar kampus, seperti memanage data mahasiswa, data prodi, data matakuliah, dan data kelas pada setiap prodi.
@@ -60,7 +59,30 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](![image](https://github.com/NMATech/E_Siska/assets/107752721/d4878c26-3641-40e5-9818-4f666058a6e2))
+- Login
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/73e7f2ad-f6d8-404c-9cec-eb68aedc1fc7)
+- Register Mahasiswa
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/48eb8e57-98bf-4ea7-b8a2-6070ac018752)
+- Dashboard Admin
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/bf4ac4f0-4ffc-4568-b971-ec236d438d8f)
+- Create Prodi
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/faf1d444-62b8-488e-a8cf-d1f6c7664f9d)
+- Edit Prodi
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/2f4b4498-9c61-4752-9239-7481534df1e4)
+- Create Mata Kuliah
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/a1bcb71d-907c-4fe8-bd48-71e0d4cc781d)
+- Edit Mata Kuliah
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/b7f1ab86-e053-4bfb-bd04-7ce4b05bf68b)
+- Create Kelas
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/8236deb2-1de5-4454-b9ce-32a99a584853)
+- Edit Kelas
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/0db6e096-1a14-49e0-832d-782ac642c375)
+- Dashboard User
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/bbc2881f-efd7-4bdc-97b4-001457334b08)
+- KRS User
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/ade4efc2-0a2c-48f4-8dc8-5c645beddde8)
+- Kelas Page
+  ![image](https://github.com/NMATech/E_Siska/assets/107752721/4acfcabe-2b45-4bd7-b62c-4c8a6d0c9b15)
 
 
 ## Authors
